@@ -1,8 +1,9 @@
 # Human-Pose-Detection
-Detection of Human Pose using Computer Vision
+Detection of Human Pose using <b>Computer Vision<b>
 
-First you need to run in your terminal:
+To run the code you need to clone the repository, then go to your terminal and run:
 ```python
+ cd Human-Pose-Detection
  chmod +x getModels.sh
 ./getModels.sh
 ```
