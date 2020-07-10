@@ -1,5 +1,5 @@
 # Human-Pose-Detection
-Detection of Human Pose using <b>Computer Vision</b>
+Detection of human Poses using <b>Computer Vision</b>
 
 To run the code you need to clone the repository, then go to your terminal and run:
 ```python
